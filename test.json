@@ -1,0 +1,16 @@
+{
+  "name": "Test User",
+  "age": 30,
+  "isStudent": false,
+  "courses": [
+    {
+      "title": "Rust Programming",
+      "credits": 3
+    },
+    {
+      "title": "Advanced JSON",
+      "credits": 4
+    }
+  ]
+}
+

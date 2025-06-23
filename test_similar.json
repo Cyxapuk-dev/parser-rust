@@ -1,0 +1,16 @@
+{
+  "name": "Another User",
+  "age": 25,
+  "isStudent": true,
+  "courses": [
+    {
+      "title": "Web Development",
+      "credits": 3
+    },
+    {
+      "title": "Database Systems",
+      "credits": 4
+    }
+  ]
+}
+
